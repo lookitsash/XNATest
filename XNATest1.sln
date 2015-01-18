@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNATest1", "XNATest1\XNATest1\XNATest1.csproj", "{F6ED75CE-3AC7-42E4-8E16-E7D7EBF59A02}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNATest1Content", "XNATest1\XNATest1Content\XNATest1Content.contentproj", "{2B87937E-6AF2-4D80-A980-C6DC5E9CADD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6ED75CE-3AC7-42E4-8E16-E7D7EBF59A02}.Debug|x86.ActiveCfg = Debug|x86
+		{F6ED75CE-3AC7-42E4-8E16-E7D7EBF59A02}.Debug|x86.Build.0 = Debug|x86
+		{F6ED75CE-3AC7-42E4-8E16-E7D7EBF59A02}.Release|x86.ActiveCfg = Release|x86
+		{F6ED75CE-3AC7-42E4-8E16-E7D7EBF59A02}.Release|x86.Build.0 = Release|x86
+		{2B87937E-6AF2-4D80-A980-C6DC5E9CADD2}.Debug|x86.ActiveCfg = Debug|x86
+		{2B87937E-6AF2-4D80-A980-C6DC5E9CADD2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
